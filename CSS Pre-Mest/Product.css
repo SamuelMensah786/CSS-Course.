@@ -1,0 +1,11 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: blueviolet;
+  margin: 20px;
+  /*border-radius: 50%;*/
+  box-shadow: 5px 5px 20px 20px rgba(red, green, blue, alpha) (0, 0, 0.5)
+
+}.container{
+          display flex: margin:
+}

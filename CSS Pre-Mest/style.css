@@ -1,0 +1,33 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h1 {
+  font-family: "roboto", sans-serif;
+  color: rgb(12, 61, 61);
+  font-size: 32px;
+  font-weight: 900;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.header {
+  background-color: rgb(18, 150, 143);
+}
+.body {
+  background-color: rgb(65, 123, 232);
+  padding-left: 20px;
+}
+
+h1:hover {
+  color: coral;
+  font-size: 35px;
+  background-color: crimson;
+}
+@media (max-width: 500px) {
+  body {
+    background-color: aqua;
+  }
+}
